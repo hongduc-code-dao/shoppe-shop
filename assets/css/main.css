@@ -709,6 +709,11 @@
     animation: fadeIn ease-in 0.3s;
 }
 
+.header__cart--has-produce,
+.header__cart-notice {
+    display: none;
+}
+
 .header__cart-list--no--cart {
     padding: 28px 0;
     text-align: center;
