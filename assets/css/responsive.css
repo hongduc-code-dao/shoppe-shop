@@ -40,6 +40,18 @@
     .header__sort-bar {
         display: flex;
     }
+
+    .app__content {
+        padding-top: 8px;
+    }
+
+    .mobile-category {
+        display: block;
+    }
+
+    .footer__heading {
+        padding-top: 16px;
+    }
 }
 
 /* Tablet */
@@ -135,5 +147,17 @@
 
     .app__content {
         padding-top: 8px;
+    }
+
+    .header__mobile-search {
+        display: block;
+    }
+
+    .header__logo-img {
+        width: 110px;
+    }
+
+    .footer {
+        padding: 16px 16px 0 16px;
     }
 }

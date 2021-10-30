@@ -477,6 +477,7 @@
 
 .header__mobile-search {
     padding: 0 12px;
+    display: none;
 }
 
 .header__mobile-search-icon {
@@ -980,7 +981,7 @@
 /* Mobile Category */
 
 .mobile-category {
-
+    display: none;
 }
 
 .mobile-category-list {
